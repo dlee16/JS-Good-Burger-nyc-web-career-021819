@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,30 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "DA BEST",
+      "description": "simply the best",
+      "image": "https://s3.amazonaws.com/pixtruder/original_images/9fbb73a7cba9b7b75c3d05484f6b6d087470641d",
+      "id": 12
+    },
+    {
+      "name": "Diet burger",
+      "description": "Healthy Eating starts now!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfbJuEF0D8B8uTZuRSiZzHniemfXXiKM-8pMDfjFz5lQ0L478",
+      "id": 13
+    },
+    {
+      "name": "heartattack btw 2 buns",
+      "description": "you may not survive... worth it? ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfnc42QQcEh0ACqoFkzu-nFppJjMgriALPNFgmcbyk2_U-755",
+      "id": 14
+    },
+    {
+      "name": "The OG",
+      "description": "classic",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBddOsSN7yGv9CT4ZUWk4x4HwTitn2rskerOg4vqFoTN647z4qlQ",
+      "id": 15
     }
   ]
 }
